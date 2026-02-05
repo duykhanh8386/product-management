@@ -11,3 +11,4 @@ module.exports=()=>{
   })
   return storage;
 }
+//upload ảnh vào trong uploads public
